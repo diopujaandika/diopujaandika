@@ -1,7 +1,7 @@
-# Main_First_Repository
-# Halo semua! 
+### Main_First_Repository
+# Hallo Everyone! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Dio Puja Andika**.<br>
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
